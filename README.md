@@ -3,11 +3,16 @@ my project
 This is my first project
 <br>
 devid6111
-git and github is main tool.gitgit 
+git and github is main tool.
 <br>
 Author:cdac
 <br>
+<br>
+<br>
+<br>
+<br>
 Offline Guide
+<br>
 By default, CesiumJS uses several external data sources which require internet access at runtime, though none of these dependencies are required. This guide lists these external sources and how to configure CesiumJS to work in a fully offline (no internet access) environment.
 <br>
 Imagery
